@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Project A</title>
+      <link>https://sunghosaseol.github.io/projectA</link>
+      <description>Last 10 notes on Project A</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>별칭태그</title>
+    <link>https://sunghosaseol.github.io/projectA/tags/%EB%B3%84%EC%B9%AD%ED%83%9C%EA%B7%B8</link>
+    <guid>https://sunghosaseol.github.io/projectA/tags/%EB%B3%84%EC%B9%AD%ED%83%9C%EA%B7%B8</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:38:12 GMT</pubDate>
+  </item><item>
+    <title>시험태그</title>
+    <link>https://sunghosaseol.github.io/projectA/tags/%EC%8B%9C%ED%97%98%ED%83%9C%EA%B7%B8</link>
+    <guid>https://sunghosaseol.github.io/projectA/tags/%EC%8B%9C%ED%97%98%ED%83%9C%EA%B7%B8</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:38:12 GMT</pubDate>
+  </item><item>
+    <title>projecta</title>
+    <link>https://sunghosaseol.github.io/projectA/tags/projecta</link>
+    <guid>https://sunghosaseol.github.io/projectA/tags/projecta</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:38:12 GMT</pubDate>
+  </item><item>
+    <title>태그 목록</title>
+    <link>https://sunghosaseol.github.io/projectA/tags/</link>
+    <guid>https://sunghosaseol.github.io/projectA/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:38:12 GMT</pubDate>
+  </item><item>
+    <title>A-날짜 publishDate</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EB%82%A0%EC%A7%9C-publishdate</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EB%82%A0%EC%A7%9C-publishdate</guid>
+    <description><![CDATA[ 별칭 키 시험 노트입니다. A-첫 노트. ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item><item>
+    <title>A-날짜 published</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EB%82%A0%EC%A7%9C-published</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EB%82%A0%EC%A7%9C-published</guid>
+    <description><![CDATA[ 별칭 키 시험 노트입니다. A-첫 노트. ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item><item>
+    <title>A-별칭 image 시험</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EB%B3%84%EC%B9%AD-image-%EC%8B%9C%ED%97%98</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EB%B3%84%EC%B9%AD-image-%EC%8B%9C%ED%97%98</guid>
+    <description><![CDATA[ 별칭 키 시험 노트입니다. A-첫 노트. ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item><item>
+    <title>A-별칭 키 시험</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EB%B3%84%EC%B9%AD-%ED%82%A4-%EC%8B%9C%ED%97%98</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EB%B3%84%EC%B9%AD-%ED%82%A4-%EC%8B%9C%ED%97%98</guid>
+    <description><![CDATA[ 별칭 키 시험용 설명 ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item><item>
+    <title>A-제목 없음 시험</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-%EC%8B%9C%ED%97%98</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C-%EC%8B%9C%ED%97%98</guid>
+    <description><![CDATA[ title이 없는 노트입니다. 파일 이름이 제목으로 쓰이는지 확인합니다. A-첫 노트. ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item><item>
+    <title>A-첫 노트</title>
+    <link>https://sunghosaseol.github.io/projectA/a-%EC%B2%AB-%EB%85%B8%ED%8A%B8</link>
+    <guid>https://sunghosaseol.github.io/projectA/a-%EC%B2%AB-%EB%85%B8%ED%8A%B8</guid>
+    <description><![CDATA[  [!note] 콜아웃 Obsidian 문법이 그대로 렌더링됩니다. ==하이라이트==, 인라인 코드, 첫 화면으로 첫 번째 제목 목차 시험용 본문입니다. 이 제목은 오른쪽 사이드바의 목차에 나타납니다. ]]></description>
+    <pubDate>Fri, 06 Nov 2026 07:37:59 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
